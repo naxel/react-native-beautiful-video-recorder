@@ -21,10 +21,9 @@
   "author": "hauvo",
   "license": "MIT",
   "peerDependencies": {
-    "react-native-camera": "git+https://github.com/lwansbrough/react-native-camera.git",
+    "react-native-compress": "git+https://github.com/naxel/react-native-compress.git",
     "react-native-vector-icons": "^4.0.0",
     "moment": "^2.17.1",
-    "react-native-spinkit": "^1.0.2",
-    "react-native-compress": "^1.0.2"
+    "react-native-spinkit": "^1.0.2"
   }
 }
